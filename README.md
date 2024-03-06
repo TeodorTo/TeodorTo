@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)])
 <h1 align="center">Hi 👋, I'm Teodor Todorov</h1>
 <h3 align="center">A passionate Back-End C# developer from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQyaGwxazdrZzBqMjVpbmI1NDl1ZDMzanV5b2pxODJ6OXVheHRyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/teodor-todorov-59376929a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teodor-todorov-59376929a" height="30" width="40" /></a>
 <a href="https://instagram.com/teodor_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teodor_t_" height="30" width="40" /></a>
-<a href="https://discord.gg/palqchokosmonaft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="palqchokosmonaft" height="30" width="40" /></a>
+<a href="https://discord.gg/sdcM6vbBKM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="palqchokosmonaft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
