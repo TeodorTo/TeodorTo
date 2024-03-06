@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teodorto&label=Profile%20views&color=0e75b6&style=flat" alt="teodorto" /> </p>
 
-- 🔭 I’m currently working on **Hospital**
+- 🔭 I’m currently working on a project **Hospital Repo**
 
 - 🌱 I’m currently learning **ASP.NET Core, JavaScript, HTML, CSS**
 
-- 💬 Ask me about **Whatever you wish**
+- 💬 If you have any questions you can reach me 📫**todorov1302@gmail.com**
 
-- 📫 How to reach me **todorov1302@gmail.com**
-
-- ⚡ Fun fact **I'm Cool (I think so)**
+- 🌍 General question **Is everything made of atoms or 0/1 ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
