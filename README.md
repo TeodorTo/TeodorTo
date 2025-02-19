@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQyaGwxazdrZzBqMjVpbmI1NDl1ZDMzanV5b2pxODJ6OXVheHRyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif"> 
 
 
-- 🔭 I’m currently working on a project **Hospital Repo**
+- 🔭 I’m currently working on a project **JudicialSystem Repo**
 
 - 🌱 I’m currently learning ** C# ASP.NET Core, JavaScript, HTML, CSS**
 
